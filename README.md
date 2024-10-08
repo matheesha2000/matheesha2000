@@ -25,6 +25,15 @@ I'm a second-year Software Engineering student at Plymouth University, passionat
 
 ![Tools](https://skillicons.dev/icons?i=vscode,androidstudio,firebase,git,postman,docker,vercel,notion,ai,ae,figma)
 
+## Feeding
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/matheesha2000/matheesha2000/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+
 ## Profile Views
 
 ![Profile Views](https://profile-counter.glitch.me/matheesha2000/count.svg)
+
+
