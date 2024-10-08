@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a second-year Software Engineering student at Plymouth University, passionate about creating scalable, efficient software solutions. I have a solid background in Java, Python, and C++, with experience in web development and databases. I'm continually honing my skills in software design, algorithms, and cloud technologies, while focusing on projects that address real-world challenges.
+I’m currently a second-year Software Engineering student with a strong interest in Full Stack development and software quality assurance. I’m dedicated to creating reliable systems and constantly enhancing my skills in these fields.
 
 ## Contribution Stats
 
